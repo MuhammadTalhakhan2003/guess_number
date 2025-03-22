@@ -20,7 +20,7 @@ The game will track the number of attempts until you guess correctly.
 Make sure you have Node.js installed. Then, follow these steps:
 
 # Clone the repository (or create the file manually)
-git clone https://github.com/your-username/guess-the-number-game.git
+git clone (https://github.com/MuhammadTalhakhan2003/guess_number)
 
 # Navigate to the project folder
 cd guess-the-number-game
