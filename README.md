@@ -39,7 +39,6 @@ Provides hints if the guess is too high or too low.
 Counts the number of attempts before the correct guess.
 
 📌 Example Gameplay
-sh
 
 Welcome to Guess the Number!
 I’ve picked a number between 1 and 100. Try to guess it!
